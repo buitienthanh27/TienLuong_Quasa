@@ -3,6 +3,12 @@
 .claude/
 AGENTS.md
 
+# Research & documentation (private)
+docs/
+Document_Mekong/
+Document_Quasa/
+Document_So_Sanh/
+
 # Build outputs
 bin/
 obj/
