@@ -1,0 +1,27 @@
+# Build outputs
+bin/
+obj/
+
+# IDE
+.vs/
+.idea/
+*.user
+*.suo
+
+# Logs
+API_Sample/API_Sample.WebApi/Logs/
+
+# Secrets (do not commit production secrets)
+appsettings.Production.json
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Node
+node_modules/
+package-lock.json
+
+# Misc
+*.bak
+*.tmp

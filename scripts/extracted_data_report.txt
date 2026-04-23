@@ -1,0 +1,200 @@
+EXTRACTED DATA REPORT
+=====================
+
+Extracted: 2026-04-22T15:23:25.737Z
+Year/Month: 2025-11
+
+=== EMPLOYEES ===
+02440 | Thô                  | T1 | CNKT | A
+03423 | Mè Ta Van            | T1 | CNKT | A
+03425 | Ka Tho               | T1 | CNKT | A
+03977 | Tô Tộ                | T1 | CNKT | A
+03427 | Thảo In              | T1 | CNKT | B
+03428 | Cha La               | T1 | CNKT | B
+02441 | Nang Nga             | T1 | CNKT | B
+03978 | Viêng                | T1 | CNKT | A
+02433 | Me Đuông             | T1 | CNKT | B
+03430 | Nang Môn             | T1 | CNKT | A
+03431 | Ziên                 | T1 | CNKT | B
+03432 | Me Pê                | T1 | CNKT | A
+03433 | Thảo chòi            | T1 | CNKT | A
+03979 | Chek Ky              | T1 | CNKT | B
+03435 | Phò Set Tha          | T1 | CNKT | B
+03980 | Căn Nha              | T1 | CNKT | A
+03981 | Khăm (1)             | T1 | CNKT | A
+03438 | Nàng Ni              | T1 | CNKT | B
+03439 | Khu                  | T1 | CNKT | A
+02429 | Nang Thôn            | T1 | CNKT | B
+03982 | Thảo Chin            | T1 | CNKT | B
+03983 | Phò Đon              | T1 | CNKT | C
+03442 | Lec                  | T1 | CNKT | B
+03443 | Chun                 | T1 | CNKT | B
+03444 | Nàng Nọi             | T1 | CNKT | A
+03984 | Thảo Cô              | T1 | CNKT | A
+03454 | Mè Tham              | T1 | CNKT | B
+03445 | Thảo Nọi (1)         | T1 | CNKT | A
+03446 | Thảo Công            | T1 | CNKT | B
+03447 | Phò Tham             | T1 | CNKT | A
+03448 | Xơi                  | T1 | CNKT | B
+02439 | Nang Mi              | T1 | CNKT | A
+03985 | Lăm Sí               | T1 | CNKT | B
+03450 | Nuc                  | T1 | CNKT | A
+03451 | Phò Thiên            | T1 | CNKT | B
+02438 | Nàng Chăn A          | T1 | CNKT | B
+02442 | Nang Thong           | T1 | CNKT | B
+02427 | Sủng                 | T1 | CNKT | A
+03452 | Lat Sa Mi            | T1 | CNKT | A
+03987 | Khụt                 | T2 | CNKT | B
+03273 | Vông                 | T2 | CNKT | A
+03274 | Ma Ni Son            | T2 | CNKT | B
+03275 | Cong Ma              | T2 | CNKT | A
+02666 | Két                  | T2 | CNKT | B
+03276 | Măn                  | T2 | CNKT | A
+03277 | Soi                  | T2 | CNKT | B
+03989 | Núc                  | T2 | CNKT | B
+03278 | Pệt                  | T2 | CNKT | A
+03279 | Khay Khăm            | T2 | CNKT | B
+03280 | Ô Lích               | T2 | CNKT | A
+03281 | Va Khăm              | T2 | CNKT | A
+03990 | Căn Nha (2)          | T2 | CNKT | B
+03992 | Lợt                  | T2 | CNKT | B
+03993 | Thảo Con             | T2 | CNKT | A
+03994 | Nang Phẩy            | T2 | CNKT | B
+03995 | Nàng                 | T2 | CNKT | A
+03996 | Xi Chăn              | T2 | CNKT | B
+03997 | Nang Vy              | T2 | CNKT | A
+03998 | Lin Đa               | T2 | CNKT | A
+03290 | Su Ki                | T2 | CNKT | A
+02671 | Xút Chay             | T2 | CNKT | A
+03291 | Khăm Ma Ny           | T2 | CNKT | A
+03999 | Ép                   | T2 | CNKT | B
+04000 | Khâm Cợt             | T2 | CNKT | B
+03294 | Choi (2)             | T2 | CNKT | B
+04001 | Phò Vy               | T2 | CNKT | A
+03296 | Thong La             | T2 | CNKT | A
+03297 | A Nan                | T2 | CNKT | B
+03298 | In Pon               | T2 | CNKT | A
+04002 | Thảo Khun            | T2 | CNKT | A
+03300 | Bun Sóng             | T2 | CNKT | B
+03301 | Tỏng                 | T2 | CNKT | C
+03302 | Vá                   | T2 | CNKT | A
+03303 | Su Ly                | T2 | CNKT | B
+04003 | Thê                  | T2 | CNKT | B
+04004 | Nang Tỵ              | T2 | CNKT | A
+04005 | Veo                  | T2 | CNKT | A
+04006 | Ka                   | T2 | CNKT | B
+03308 | Chăn Đi              | T2 | CNKT | B
+03309 | Phôm Ma              | T2 | CNKT | B
+04007 | Thảo Bin             | T2 | CNKT | B
+03311 | Lích                 | T2 | CNKT | B
+03312 | Lăm Phon (2)         | T2 | CNKT | B
+04008 | Phô Xá               | T2 | CNKT | B
+04009 | Thảo Choi            | T2 | CNKT | C
+03315 | Phim Phon            | T2 | CNKT | A
+04010 | Thảo Uông            | T2 | CNKT | A
+04011 | Nang Khâm            | T2 | CNKT | B
+02665 | Hắm Nọi              | T2 | CNKT | A
+04012 | Mi                   | T2 | CNKT | A
+04013 | Nang Túc             | T2 | CNKT | A
+04014 | Lard                 | T2 | CNKT | A
+
+=== PRODUCTIONS ===
+02440 | Raw: 1599kg | Dry: 626.0468352472673kg | Grade: A
+03423 | Raw: 1776kg | Dry: 695.3465787361768kg | Grade: A
+03425 | Raw: 937kg | Dry: 366.8579641192554kg | Grade: A
+03977 | Raw: 1256kg | Dry: 491.75411198909796kg | Grade: A
+03427 | Raw: 1001kg | Dry: 391.9154984881267kg | Grade: B
+03428 | Raw: 976kg | Dry: 382.12739912528633kg | Grade: B
+02441 | Raw: 940kg | Dry: 368.03253604279627kg | Grade: B
+03978 | Raw: 949kg | Dry: 371.5562518134188kg | Grade: A
+02433 | Raw: 1019kg | Dry: 398.9629300293717kg | Grade: B
+03430 | Raw: 1046kg | Dry: 409.53407734123925kg | Grade: A
+03431 | Raw: 1153kg | Dry: 451.4271426141958kg | Grade: B
+03432 | Raw: 1847kg | Dry: 723.1447809266433kg | Grade: A
+03433 | Raw: 782kg | Dry: 306.1717480696454kg | Grade: A
+03979 | Raw: 522kg | Dry: 204.375514696106kg | Grade: B
+03435 | Raw: 1246kg | Dry: 487.8388722439619kg | Grade: B
+03980 | Raw: 1126kg | Dry: 440.85599530232827kg | Grade: A
+03981 | Raw: 965kg | Dry: 377.8206354056366kg | Grade: A
+03438 | Raw: 1906kg | Dry: 746.2446954229465kg | Grade: B
+03439 | Raw: 1849kg | Dry: 723.9278288756705kg | Grade: A
+02429 | Raw: 1147kg | Dry: 449.07799876711414kg | Grade: B
+03982 | Raw: 774kg | Dry: 303.0395562735365kg | Grade: B
+03983 | Raw: 719kg | Dry: 281.5057376752878kg | Grade: C
+03442 | Raw: 964kg | Dry: 377.429111431123kg | Grade: B
+03443 | Raw: 1178kg | Dry: 461.21524197703616kg | Grade: B
+03444 | Raw: 1210kg | Dry: 473.74400916147175kg | Grade: A
+03984 | Raw: 1550kg | Dry: 606.8621604961002kg | Grade: A
+03454 | Raw: 1082kg | Dry: 423.6289404237293kg | Grade: B
+03445 | Raw: 1340kg | Dry: 524.6421258482414kg | Grade: A
+03446 | Raw: 1143kg | Dry: 447.5119028690597kg | Grade: B
+03447 | Raw: 1086kg | Dry: 425.19503632178373kg | Grade: A
+03448 | Raw: 1145kg | Dry: 448.29495081808693kg | Grade: B
+02439 | Raw: 1146kg | Dry: 448.68647479260056kg | Grade: A
+03985 | Raw: 1371kg | Dry: 536.7793690581635kg | Grade: B
+03450 | Raw: 875kg | Dry: 342.5834776994114kg | Grade: A
+03451 | Raw: 1128kg | Dry: 441.63904325135553kg | Grade: B
+02438 | Raw: 973kg | Dry: 380.9528272017455kg | Grade: B
+02442 | Raw: 971kg | Dry: 380.1697792527183kg | Grade: B
+02427 | Raw: 1120kg | Dry: 438.5068514552466kg | Grade: A
+03452 | Raw: 831kg | Dry: 325.35642282081244kg | Grade: A
+03987 | Raw: 1735kg | Dry: 676.2857880932858kg | Grade: B
+03273 | Raw: 2229kg | Dry: 868.8420874120657kg | Grade: A
+03274 | Raw: 2191kg | Dry: 854.0300643875441kg | Grade: B
+03275 | Raw: 2813kg | Dry: 1096.4794938941861kg | Grade: A
+02666 | Raw: 1426kg | Dry: 555.8406534991501kg | Grade: B
+03276 | Raw: 2268kg | Dry: 884.04390051618kg | Grade: A
+03277 | Raw: 1665kg | Dry: 649.0004825217987kg | Grade: B
+03989 | Raw: 1922kg | Dry: 749.1765329771155kg | Grade: B
+03278 | Raw: 1743kg | Dry: 679.4041087300271kg | Grade: A
+03279 | Raw: 2309kg | Dry: 900.0252937794795kg | Grade: B
+03280 | Raw: 1326kg | Dry: 516.8616455398829kg | Grade: A
+03281 | Raw: 1731kg | Dry: 674.7266277749151kg | Grade: A
+03990 | Raw: 2732kg | Dry: 1064.9064974471796kg | Grade: B
+03992 | Raw: 1712kg | Dry: 667.3206162626543kg | Grade: B
+03993 | Raw: 2128kg | Dry: 829.4732893732058kg | Grade: A
+03994 | Raw: 773kg | Dry: 301.3077315251354kg | Grade: B
+03995 | Raw: 2340kg | Dry: 912.1087862468523kg | Grade: A
+03996 | Raw: 2743kg | Dry: 1069.1941883226991kg | Grade: B
+03997 | Raw: 2190kg | Dry: 853.6402743079515kg | Grade: A
+03998 | Raw: 1999kg | Dry: 779.1903691057512kg | Grade: A
+03290 | Raw: 2457kg | Dry: 957.7142255591949kg | Grade: A
+02671 | Raw: 2189kg | Dry: 853.2504842283588kg | Grade: A
+03291 | Raw: 3116kg | Dry: 1214.5858880107658kg | Grade: A
+03999 | Raw: 2038kg | Dry: 794.3921822098654kg | Grade: B
+04000 | Raw: 2037kg | Dry: 794.0023921302727kg | Grade: B
+03294 | Raw: 1962kg | Dry: 764.7681361608223kg | Grade: B
+04001 | Raw: 2951kg | Dry: 1150.2705248779748kg | Grade: A
+03296 | Raw: 3061kg | Dry: 1193.1474336331687kg | Grade: A
+03297 | Raw: 1998kg | Dry: 778.8005790261585kg | Grade: B
+03298 | Raw: 2140kg | Dry: 834.1507703283179kg | Grade: A
+04002 | Raw: 3807kg | Dry: 1483.930833009302kg | Grade: A
+03300 | Raw: 1690kg | Dry: 658.7452345116155kg | Grade: B
+03301 | Raw: 2025kg | Dry: 789.3249111751607kg | Grade: C
+03302 | Raw: 2262kg | Dry: 881.705160038624kg | Grade: A
+03303 | Raw: 2432kg | Dry: 947.9694735693781kg | Grade: B
+04003 | Raw: 1713kg | Dry: 667.710406342247kg | Grade: B
+04004 | Raw: 1865kg | Dry: 726.9584984403332kg | Grade: A
+04005 | Raw: 1815kg | Dry: 707.4689944606995kg | Grade: A
+04006 | Raw: 2567kg | Dry: 1000.5911343143888kg | Grade: B
+03308 | Raw: 2123kg | Dry: 827.5243389752425kg | Grade: B
+03309 | Raw: 1200kg | Dry: 467.7480955112063kg | Grade: B
+04007 | Raw: 2208kg | Dry: 860.6564957406196kg | Grade: B
+03311 | Raw: 2764kg | Dry: 1077.379779994145kg | Grade: B
+03312 | Raw: 1887kg | Dry: 735.533880191372kg | Grade: B
+04008 | Raw: 1103kg | Dry: 429.9384577907171kg | Grade: B
+04009 | Raw: 813kg | Dry: 316.8993347088423kg | Grade: C
+03315 | Raw: 2240kg | Dry: 51kg | Grade: A
+04010 | Raw: 1663kg | Dry: 52kg | Grade: A
+04011 | Raw: 2035kg | Dry: 53kg | Grade: B
+02665 | Raw: 1790kg | Dry: 54kg | Grade: A
+04012 | Raw: 2258kg | Dry: 55kg | Grade: A
+04013 | Raw: 1531kg | Dry: 56kg | Grade: A
+04014 | Raw: 1594kg | Dry: 57kg | Grade: A
+
+=== DRC RATES ===
+T1: 0.39152397451361304 (Excel sheet TRẠM 1)
+T2: 0.3897900795926719 (Excel sheet TRẠM 2)
+
+=== EXCHANGE RATES ===
+THB -> LAK: 660

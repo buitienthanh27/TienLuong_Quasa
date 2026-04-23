@@ -1,0 +1,1598 @@
+{
+  "yearMonth": "2025-11",
+  "extractedAt": "2026-04-22T15:25:13.268Z",
+  "trams": [
+    {
+      "code": "T1",
+      "name": "Trạm 1",
+      "description": "Vùng khó khăn - Đội 1"
+    },
+    {
+      "code": "T2",
+      "name": "Trạm 2",
+      "description": "Vùng bình thường - Đội 1"
+    }
+  ],
+  "employeeTypes": [
+    {
+      "code": "CNKT",
+      "name": "Công nhân kỹ thuật",
+      "salaryCurrency": "THB",
+      "paymentCurrency": "LAK",
+      "calculationMethod": "PRODUCTION",
+      "hasInsurance": true,
+      "sortOrder": 1
+    },
+    {
+      "code": "BV",
+      "name": "Bảo vệ",
+      "salaryCurrency": "LAK",
+      "paymentCurrency": "LAK",
+      "calculationMethod": "FIXED",
+      "hasInsurance": false,
+      "sortOrder": 2
+    },
+    {
+      "code": "TV",
+      "name": "Tạp vụ",
+      "salaryCurrency": "LAK",
+      "paymentCurrency": "LAK",
+      "calculationMethod": "FIXED",
+      "hasInsurance": false,
+      "sortOrder": 3
+    },
+    {
+      "code": "CS",
+      "name": "Chăm sóc",
+      "salaryCurrency": "LAK",
+      "paymentCurrency": "LAK",
+      "calculationMethod": "DAILY",
+      "hasInsurance": false,
+      "sortOrder": 4
+    }
+  ],
+  "technicalGrades": [
+    {
+      "grade": "A",
+      "name": "Hạng A - Xuất sắc",
+      "pointCoefficient": 1,
+      "sortOrder": 1
+    },
+    {
+      "grade": "B",
+      "name": "Hạng B - Khá",
+      "pointCoefficient": 0.97,
+      "sortOrder": 2
+    },
+    {
+      "grade": "C",
+      "name": "Hạng C - Trung bình",
+      "pointCoefficient": 0.93,
+      "sortOrder": 3
+    },
+    {
+      "grade": "D",
+      "name": "Hạng D - Yếu",
+      "pointCoefficient": 0.9,
+      "sortOrder": 4
+    }
+  ],
+  "employees": [
+    {
+      "msnv": "02440",
+      "fullName": "Thô",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03423",
+      "fullName": "Mè Ta Van",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03425",
+      "fullName": "Ka Tho",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03977",
+      "fullName": "Tô Tộ",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03427",
+      "fullName": "Thảo In",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03428",
+      "fullName": "Cha La",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "02441",
+      "fullName": "Nang Nga",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03978",
+      "fullName": "Viêng",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "02433",
+      "fullName": "Me Đuông",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03430",
+      "fullName": "Nang Môn",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03431",
+      "fullName": "Ziên",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03432",
+      "fullName": "Me Pê",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03433",
+      "fullName": "Thảo chòi",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03979",
+      "fullName": "Chek Ky",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03435",
+      "fullName": "Phò Set Tha",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03980",
+      "fullName": "Căn Nha",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03981",
+      "fullName": "Khăm (1)",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03438",
+      "fullName": "Nàng Ni",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03439",
+      "fullName": "Khu",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "02429",
+      "fullName": "Nang Thôn",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03982",
+      "fullName": "Thảo Chin",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03983",
+      "fullName": "Phò Đon",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "C"
+    },
+    {
+      "msnv": "03442",
+      "fullName": "Lec",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03443",
+      "fullName": "Chun",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03444",
+      "fullName": "Nàng Nọi",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03984",
+      "fullName": "Thảo Cô",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03454",
+      "fullName": "Mè Tham",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03445",
+      "fullName": "Thảo Nọi (1)",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03446",
+      "fullName": "Thảo Công",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03447",
+      "fullName": "Phò Tham",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03448",
+      "fullName": "Xơi",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "02439",
+      "fullName": "Nang Mi",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03985",
+      "fullName": "Lăm Sí",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03450",
+      "fullName": "Nuc",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03451",
+      "fullName": "Phò Thiên",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "02438",
+      "fullName": "Nàng Chăn A",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "02442",
+      "fullName": "Nang Thong",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "02427",
+      "fullName": "Sủng",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03452",
+      "fullName": "Lat Sa Mi",
+      "tramCode": "T1",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03987",
+      "fullName": "Khụt",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03273",
+      "fullName": "Vông",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03274",
+      "fullName": "Ma Ni Son",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03275",
+      "fullName": "Cong Ma",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "02666",
+      "fullName": "Két",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03276",
+      "fullName": "Măn",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03277",
+      "fullName": "Soi",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03989",
+      "fullName": "Núc",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03278",
+      "fullName": "Pệt",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03279",
+      "fullName": "Khay Khăm",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03280",
+      "fullName": "Ô Lích",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03281",
+      "fullName": "Va Khăm",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03990",
+      "fullName": "Căn Nha (2)",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03992",
+      "fullName": "Lợt",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03993",
+      "fullName": "Thảo Con",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03994",
+      "fullName": "Nang Phẩy",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03995",
+      "fullName": "Nàng",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03996",
+      "fullName": "Xi Chăn",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03997",
+      "fullName": "Nang Vy",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03998",
+      "fullName": "Lin Đa",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03290",
+      "fullName": "Su Ki",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "02671",
+      "fullName": "Xút Chay",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03291",
+      "fullName": "Khăm Ma Ny",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03999",
+      "fullName": "Ép",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "04000",
+      "fullName": "Khâm Cợt",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03294",
+      "fullName": "Choi (2)",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "04001",
+      "fullName": "Phò Vy",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03296",
+      "fullName": "Thong La",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03297",
+      "fullName": "A Nan",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03298",
+      "fullName": "In Pon",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "04002",
+      "fullName": "Thảo Khun",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03300",
+      "fullName": "Bun Sóng",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03301",
+      "fullName": "Tỏng",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "C"
+    },
+    {
+      "msnv": "03302",
+      "fullName": "Vá",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "03303",
+      "fullName": "Su Ly",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "04003",
+      "fullName": "Thê",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "04004",
+      "fullName": "Nang Tỵ",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "04005",
+      "fullName": "Veo",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "04006",
+      "fullName": "Ka",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03308",
+      "fullName": "Chăn Đi",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03309",
+      "fullName": "Phôm Ma",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "04007",
+      "fullName": "Thảo Bin",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03311",
+      "fullName": "Lích",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "03312",
+      "fullName": "Lăm Phon (2)",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "04008",
+      "fullName": "Phô Xá",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "04009",
+      "fullName": "Thảo Choi",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "C"
+    },
+    {
+      "msnv": "03315",
+      "fullName": "Phim Phon",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "04010",
+      "fullName": "Thảo Uông",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "04011",
+      "fullName": "Nang Khâm",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "B"
+    },
+    {
+      "msnv": "02665",
+      "fullName": "Hắm Nọi",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "04012",
+      "fullName": "Mi",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "04013",
+      "fullName": "Nang Túc",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    },
+    {
+      "msnv": "04014",
+      "fullName": "Lard",
+      "tramCode": "T2",
+      "position": "CNKT",
+      "technicalGrade": "A"
+    }
+  ],
+  "productions": [
+    {
+      "employeeMsnv": "02440",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1599,
+      "dryLatexKg": 626.0085,
+      "grade": "A",
+      "calculatedSalary": 3828484
+    },
+    {
+      "employeeMsnv": "03423",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1776,
+      "dryLatexKg": 695.304,
+      "grade": "A",
+      "calculatedSalary": 4252275
+    },
+    {
+      "employeeMsnv": "03425",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 937,
+      "dryLatexKg": 366.8579641192554,
+      "grade": "A",
+      "calculatedSalary": 2243458
+    },
+    {
+      "employeeMsnv": "03977",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1256,
+      "dryLatexKg": 491.75411198909796,
+      "grade": "A",
+      "calculatedSalary": 3007240
+    },
+    {
+      "employeeMsnv": "03427",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1001,
+      "dryLatexKg": 391.9154984881267,
+      "grade": "B",
+      "calculatedSalary": 2318540
+    },
+    {
+      "employeeMsnv": "03428",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 976,
+      "dryLatexKg": 382.12739912528633,
+      "grade": "B",
+      "calculatedSalary": 2260635
+    },
+    {
+      "employeeMsnv": "02441",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 940,
+      "dryLatexKg": 368.03253604279627,
+      "grade": "B",
+      "calculatedSalary": 2177251
+    },
+    {
+      "employeeMsnv": "03978",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 949,
+      "dryLatexKg": 371.5562518134188,
+      "grade": "A",
+      "calculatedSalary": 2272190
+    },
+    {
+      "employeeMsnv": "02433",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1019,
+      "dryLatexKg": 398.9629300293717,
+      "grade": "B",
+      "calculatedSalary": 2360232
+    },
+    {
+      "employeeMsnv": "03430",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1046,
+      "dryLatexKg": 409.53407734123925,
+      "grade": "A",
+      "calculatedSalary": 2504437
+    },
+    {
+      "employeeMsnv": "03431",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1153,
+      "dryLatexKg": 451.4271426141958,
+      "grade": "B",
+      "calculatedSalary": 2670606
+    },
+    {
+      "employeeMsnv": "03432",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1847,
+      "dryLatexKg": 723.1005,
+      "grade": "A",
+      "calculatedSalary": 4422270
+    },
+    {
+      "employeeMsnv": "03433",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 782,
+      "dryLatexKg": 306.1717480696454,
+      "grade": "A",
+      "calculatedSalary": 1872342
+    },
+    {
+      "employeeMsnv": "03979",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 522,
+      "dryLatexKg": 204.375514696106,
+      "grade": "B",
+      "calculatedSalary": 1209069
+    },
+    {
+      "employeeMsnv": "03435",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1246,
+      "dryLatexKg": 487.8388722439619,
+      "grade": "B",
+      "calculatedSalary": 2886015
+    },
+    {
+      "employeeMsnv": "03980",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1126,
+      "dryLatexKg": 440.85599530232827,
+      "grade": "A",
+      "calculatedSalary": 2695981
+    },
+    {
+      "employeeMsnv": "03981",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 965,
+      "dryLatexKg": 377.8206354056366,
+      "grade": "A",
+      "calculatedSalary": 2310499
+    },
+    {
+      "employeeMsnv": "03438",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1906,
+      "dryLatexKg": 746.1990000000001,
+      "grade": "B",
+      "calculatedSalary": 4414723
+    },
+    {
+      "employeeMsnv": "03439",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1849,
+      "dryLatexKg": 723.8835,
+      "grade": "A",
+      "calculatedSalary": 4427059
+    },
+    {
+      "employeeMsnv": "02429",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1147,
+      "dryLatexKg": 449.07799876711414,
+      "grade": "B",
+      "calculatedSalary": 2656709
+    },
+    {
+      "employeeMsnv": "03982",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 774,
+      "dryLatexKg": 303.0395562735365,
+      "grade": "B",
+      "calculatedSalary": 1792757
+    },
+    {
+      "employeeMsnv": "03983",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 719,
+      "dryLatexKg": 281.5057376752878,
+      "grade": "C",
+      "calculatedSalary": 1609229
+    },
+    {
+      "employeeMsnv": "03442",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 964,
+      "dryLatexKg": 377.429111431123,
+      "grade": "B",
+      "calculatedSalary": 2232840
+    },
+    {
+      "employeeMsnv": "03443",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1178,
+      "dryLatexKg": 461.21524197703616,
+      "grade": "B",
+      "calculatedSalary": 2728512
+    },
+    {
+      "employeeMsnv": "03444",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1210,
+      "dryLatexKg": 473.74400916147175,
+      "grade": "A",
+      "calculatedSalary": 2897102
+    },
+    {
+      "employeeMsnv": "03984",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1550,
+      "dryLatexKg": 606.825,
+      "grade": "A",
+      "calculatedSalary": 3711164
+    },
+    {
+      "employeeMsnv": "03454",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1082,
+      "dryLatexKg": 423.6289404237293,
+      "grade": "B",
+      "calculatedSalary": 2506154
+    },
+    {
+      "employeeMsnv": "03445",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1340,
+      "dryLatexKg": 524.61,
+      "grade": "A",
+      "calculatedSalary": 3208361
+    },
+    {
+      "employeeMsnv": "03446",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1143,
+      "dryLatexKg": 447.5119028690597,
+      "grade": "B",
+      "calculatedSalary": 2647444
+    },
+    {
+      "employeeMsnv": "03447",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1086,
+      "dryLatexKg": 425.19503632178373,
+      "grade": "A",
+      "calculatedSalary": 2600209
+    },
+    {
+      "employeeMsnv": "03448",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1145,
+      "dryLatexKg": 448.29495081808693,
+      "grade": "B",
+      "calculatedSalary": 2652077
+    },
+    {
+      "employeeMsnv": "02439",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1146,
+      "dryLatexKg": 448.68647479260056,
+      "grade": "A",
+      "calculatedSalary": 2743867
+    },
+    {
+      "employeeMsnv": "03985",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1371,
+      "dryLatexKg": 536.7465,
+      "grade": "B",
+      "calculatedSalary": 3175543
+    },
+    {
+      "employeeMsnv": "03450",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 875,
+      "dryLatexKg": 342.5834776994114,
+      "grade": "A",
+      "calculatedSalary": 2095012
+    },
+    {
+      "employeeMsnv": "03451",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1128,
+      "dryLatexKg": 441.63904325135553,
+      "grade": "B",
+      "calculatedSalary": 2612701
+    },
+    {
+      "employeeMsnv": "02438",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 973,
+      "dryLatexKg": 380.9528272017455,
+      "grade": "B",
+      "calculatedSalary": 2253686
+    },
+    {
+      "employeeMsnv": "02442",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 971,
+      "dryLatexKg": 380.1697792527183,
+      "grade": "B",
+      "calculatedSalary": 2249054
+    },
+    {
+      "employeeMsnv": "02427",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1120,
+      "dryLatexKg": 438.5068514552466,
+      "grade": "A",
+      "calculatedSalary": 2681615
+    },
+    {
+      "employeeMsnv": "03452",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 831,
+      "dryLatexKg": 325.35642282081244,
+      "grade": "A",
+      "calculatedSalary": 1989663
+    },
+    {
+      "employeeMsnv": "03987",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1735,
+      "dryLatexKg": 668.1485,
+      "grade": "B",
+      "calculatedSalary": 3326551
+    },
+    {
+      "employeeMsnv": "03273",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 2229,
+      "dryLatexKg": 858.3879,
+      "grade": "A",
+      "calculatedSalary": 4446966
+    },
+    {
+      "employeeMsnv": "03274",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 2191,
+      "dryLatexKg": 843.7541,
+      "grade": "B",
+      "calculatedSalary": 4200849
+    },
+    {
+      "employeeMsnv": "03275",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 2813,
+      "dryLatexKg": 1083.2863,
+      "grade": "A",
+      "calculatedSalary": 5612075
+    },
+    {
+      "employeeMsnv": "02666",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1426,
+      "dryLatexKg": 549.1526,
+      "grade": "B",
+      "calculatedSalary": 2734099
+    },
+    {
+      "employeeMsnv": "03276",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 2268,
+      "dryLatexKg": 873.4068,
+      "grade": "A",
+      "calculatedSalary": 4524773
+    },
+    {
+      "employeeMsnv": "03277",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1665,
+      "dryLatexKg": 641.1915,
+      "grade": "B",
+      "calculatedSalary": 3192339
+    },
+    {
+      "employeeMsnv": "03989",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1922,
+      "dryLatexKg": 740.1622,
+      "grade": "B",
+      "calculatedSalary": 3685090
+    },
+    {
+      "employeeMsnv": "03278",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1743,
+      "dryLatexKg": 671.2293,
+      "grade": "A",
+      "calculatedSalary": 3477372
+    },
+    {
+      "employeeMsnv": "03279",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 2309,
+      "dryLatexKg": 889.1959,
+      "grade": "B",
+      "calculatedSalary": 4427093
+    },
+    {
+      "employeeMsnv": "03280",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1326,
+      "dryLatexKg": 510.6426,
+      "grade": "A",
+      "calculatedSalary": 2645436
+    },
+    {
+      "employeeMsnv": "03281",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1731,
+      "dryLatexKg": 666.6081,
+      "grade": "A",
+      "calculatedSalary": 3453431
+    },
+    {
+      "employeeMsnv": "03990",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 2732,
+      "dryLatexKg": 1052.0932,
+      "grade": "B",
+      "calculatedSalary": 5238120
+    },
+    {
+      "employeeMsnv": "03992",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1712,
+      "dryLatexKg": 659.2912,
+      "grade": "B",
+      "calculatedSalary": 3282453
+    },
+    {
+      "employeeMsnv": "03993",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 2128,
+      "dryLatexKg": 819.4928,
+      "grade": "A",
+      "calculatedSalary": 4245466
+    },
+    {
+      "employeeMsnv": "03994",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 773,
+      "dryLatexKg": 301.3077315251354,
+      "grade": "B",
+      "calculatedSalary": 1482089
+    },
+    {
+      "employeeMsnv": "03995",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 2340,
+      "dryLatexKg": 901.134,
+      "grade": "A",
+      "calculatedSalary": 4668416
+    },
+    {
+      "employeeMsnv": "03996",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 2743,
+      "dryLatexKg": 1056.3293,
+      "grade": "B",
+      "calculatedSalary": 5259210
+    },
+    {
+      "employeeMsnv": "03997",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 2190,
+      "dryLatexKg": 843.369,
+      "grade": "A",
+      "calculatedSalary": 4369159
+    },
+    {
+      "employeeMsnv": "03998",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1999,
+      "dryLatexKg": 769.8149,
+      "grade": "A",
+      "calculatedSalary": 3988104
+    },
+    {
+      "employeeMsnv": "03290",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 2457,
+      "dryLatexKg": 946.1907,
+      "grade": "A",
+      "calculatedSalary": 4901837
+    },
+    {
+      "employeeMsnv": "02671",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 2189,
+      "dryLatexKg": 842.9839,
+      "grade": "A",
+      "calculatedSalary": 4367164
+    },
+    {
+      "employeeMsnv": "03291",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 3116,
+      "dryLatexKg": 1199.9716,
+      "grade": "A",
+      "calculatedSalary": 6216575
+    },
+    {
+      "employeeMsnv": "03999",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 2038,
+      "dryLatexKg": 784.8338,
+      "grade": "B",
+      "calculatedSalary": 3907499
+    },
+    {
+      "employeeMsnv": "04000",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 2037,
+      "dryLatexKg": 784.4487,
+      "grade": "B",
+      "calculatedSalary": 3905582
+    },
+    {
+      "employeeMsnv": "03294",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1962,
+      "dryLatexKg": 755.5662,
+      "grade": "B",
+      "calculatedSalary": 3761783
+    },
+    {
+      "employeeMsnv": "04001",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 2951,
+      "dryLatexKg": 1136.4301,
+      "grade": "A",
+      "calculatedSalary": 5887392
+    },
+    {
+      "employeeMsnv": "03296",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 3061,
+      "dryLatexKg": 1178.7911,
+      "grade": "A",
+      "calculatedSalary": 6106847
+    },
+    {
+      "employeeMsnv": "03297",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1998,
+      "dryLatexKg": 769.4298,
+      "grade": "B",
+      "calculatedSalary": 3830806
+    },
+    {
+      "employeeMsnv": "03298",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 2140,
+      "dryLatexKg": 824.114,
+      "grade": "A",
+      "calculatedSalary": 4269406
+    },
+    {
+      "employeeMsnv": "04002",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 3807,
+      "dryLatexKg": 1466.0757,
+      "grade": "A",
+      "calculatedSalary": 7595154
+    },
+    {
+      "employeeMsnv": "03300",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1690,
+      "dryLatexKg": 650.819,
+      "grade": "B",
+      "calculatedSalary": 3240272
+    },
+    {
+      "employeeMsnv": "03301",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 2025,
+      "dryLatexKg": 779.8275,
+      "grade": "C",
+      "calculatedSalary": 3725172
+    },
+    {
+      "employeeMsnv": "03302",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 2262,
+      "dryLatexKg": 871.0962,
+      "grade": "A",
+      "calculatedSalary": 4512802
+    },
+    {
+      "employeeMsnv": "03303",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 2432,
+      "dryLatexKg": 936.5632,
+      "grade": "B",
+      "calculatedSalary": 4662923
+    },
+    {
+      "employeeMsnv": "04003",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1713,
+      "dryLatexKg": 659.6763,
+      "grade": "B",
+      "calculatedSalary": 3284370
+    },
+    {
+      "employeeMsnv": "04004",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1865,
+      "dryLatexKg": 718.2115,
+      "grade": "A",
+      "calculatedSalary": 3720768
+    },
+    {
+      "employeeMsnv": "04005",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1815,
+      "dryLatexKg": 698.9565,
+      "grade": "A",
+      "calculatedSalary": 3621015
+    },
+    {
+      "employeeMsnv": "04006",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 2567,
+      "dryLatexKg": 988.5517,
+      "grade": "B",
+      "calculatedSalary": 4921762
+    },
+    {
+      "employeeMsnv": "03308",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 2123,
+      "dryLatexKg": 817.5673,
+      "grade": "B",
+      "calculatedSalary": 4070471
+    },
+    {
+      "employeeMsnv": "03309",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1200,
+      "dryLatexKg": 467.7480955112063,
+      "grade": "B",
+      "calculatedSalary": 2300785
+    },
+    {
+      "employeeMsnv": "04007",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 2208,
+      "dryLatexKg": 850.3008,
+      "grade": "B",
+      "calculatedSalary": 4233444
+    },
+    {
+      "employeeMsnv": "03311",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 2764,
+      "dryLatexKg": 1064.4164,
+      "grade": "B",
+      "calculatedSalary": 5299474
+    },
+    {
+      "employeeMsnv": "03312",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1887,
+      "dryLatexKg": 726.6837,
+      "grade": "B",
+      "calculatedSalary": 3617984
+    },
+    {
+      "employeeMsnv": "04008",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1103,
+      "dryLatexKg": 429.9384577907171,
+      "grade": "B",
+      "calculatedSalary": 2114805
+    },
+    {
+      "employeeMsnv": "04009",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 813,
+      "dryLatexKg": 316.8993347088423,
+      "grade": "C",
+      "calculatedSalary": 1495588
+    },
+    {
+      "employeeMsnv": "03315",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 2240,
+      "dryLatexKg": 862.624,
+      "grade": "A",
+      "calculatedSalary": 4468911
+    },
+    {
+      "employeeMsnv": "04010",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1663,
+      "dryLatexKg": 640.4213,
+      "grade": "A",
+      "calculatedSalary": 3317768
+    },
+    {
+      "employeeMsnv": "04011",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 2035,
+      "dryLatexKg": 783.6785,
+      "grade": "B",
+      "calculatedSalary": 3901747
+    },
+    {
+      "employeeMsnv": "02665",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1790,
+      "dryLatexKg": 689.329,
+      "grade": "A",
+      "calculatedSalary": 3571139
+    },
+    {
+      "employeeMsnv": "04012",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 2258,
+      "dryLatexKg": 869.5558,
+      "grade": "A",
+      "calculatedSalary": 4504822
+    },
+    {
+      "employeeMsnv": "04013",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1531,
+      "dryLatexKg": 589.5880999999999,
+      "grade": "A",
+      "calculatedSalary": 3054421
+    },
+    {
+      "employeeMsnv": "04014",
+      "yearMonth": "2025-11",
+      "rawLatexKg": 1594,
+      "dryLatexKg": 613.8494,
+      "grade": "A",
+      "calculatedSalary": 3180109
+    }
+  ],
+  "attendances": [],
+  "drcRates": [
+    {
+      "tramCode": "T1",
+      "yearMonth": "2025-11",
+      "drcRate": 0.3915,
+      "source": "Default"
+    },
+    {
+      "tramCode": "T2",
+      "yearMonth": "2025-11",
+      "drcRate": 0.3851,
+      "source": "Default"
+    }
+  ],
+  "rubberUnitPrices": [
+    {
+      "tramCode": "T1",
+      "grade": "A",
+      "unitPriceKip": 6115,
+      "isDifficultArea": true
+    },
+    {
+      "tramCode": "T1",
+      "grade": "B",
+      "unitPriceKip": 5916,
+      "isDifficultArea": true
+    },
+    {
+      "tramCode": "T1",
+      "grade": "C",
+      "unitPriceKip": 5717,
+      "isDifficultArea": true
+    },
+    {
+      "tramCode": "T1",
+      "grade": "D",
+      "unitPriceKip": 5517,
+      "isDifficultArea": true
+    },
+    {
+      "tramCode": "T2",
+      "grade": "A",
+      "unitPriceKip": 5118,
+      "isDifficultArea": false
+    },
+    {
+      "tramCode": "T2",
+      "grade": "B",
+      "unitPriceKip": 4919,
+      "isDifficultArea": false
+    },
+    {
+      "tramCode": "T2",
+      "grade": "C",
+      "unitPriceKip": 4719,
+      "isDifficultArea": false
+    },
+    {
+      "tramCode": "T2",
+      "grade": "D",
+      "unitPriceKip": 4520,
+      "isDifficultArea": false
+    }
+  ],
+  "exchangeRates": [
+    {
+      "yearMonth": "2025-11",
+      "fromCurrency": "THB",
+      "toCurrency": "LAK",
+      "rate": 664.71,
+      "source": "Excel TRẠM 1"
+    }
+  ],
+  "workTypes": [
+    {
+      "code": "CHAM_SOC",
+      "name": "Lương chăm sóc",
+      "unitPrice": 25000,
+      "currency": "LAK"
+    },
+    {
+      "code": "CAO_2_LAT",
+      "name": "Cạo 2 lát",
+      "unitPrice": 100000,
+      "currency": "LAK"
+    },
+    {
+      "code": "KHOP_NANG",
+      "name": "Công khộp nặng",
+      "unitPrice": 20000,
+      "currency": "LAK"
+    },
+    {
+      "code": "CAY_NON",
+      "name": "Công cây non",
+      "unitPrice": 30700,
+      "currency": "LAK"
+    },
+    {
+      "code": "CAO_2_CN",
+      "name": "Cạo 2 chủ nhật",
+      "unitPrice": 150000,
+      "currency": "LAK"
+    }
+  ],
+  "systemParameters": [
+    {
+      "paramCode": "BHXH_RATE",
+      "paramValue": 0.08,
+      "description": "Tỷ lệ BHXH 8%"
+    },
+    {
+      "paramCode": "BHYT_RATE",
+      "paramValue": 0.015,
+      "description": "Tỷ lệ BHYT 1.5%"
+    },
+    {
+      "paramCode": "P7",
+      "paramValue": 27,
+      "description": "Số ngày công chuẩn"
+    },
+    {
+      "paramCode": "DIFFICULT_BONUS",
+      "paramValue": 1000,
+      "description": "Phụ cấp vùng khó khăn (KIP/kg)"
+    },
+    {
+      "paramCode": "CARE_RATE",
+      "paramValue": 25000,
+      "description": "Đơn giá công chăm sóc (KIP/ngày)"
+    }
+  ],
+  "careAdjustments": []
+}
