@@ -1,3 +1,7 @@
+# Claude Code personal config
+.agents/
+.claude/
+
 # Build outputs
 bin/
 obj/
