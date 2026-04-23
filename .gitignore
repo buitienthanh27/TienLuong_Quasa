@@ -9,6 +9,10 @@ Document_Mekong/
 Document_Quasa/
 Document_So_Sanh/
 
+# Tools & scripts (private)
+tools/
+scripts/
+
 # Build outputs
 bin/
 obj/
